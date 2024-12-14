@@ -1,0 +1,75 @@
+.App {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 40px;
+  color: white;
+}
+
+.App-header h1 {
+  font-size: 3rem;
+}
+
+.contact-btn {
+  background-color: #61dafb;
+  color: #282c34;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.contact-btn:hover {
+  background-color: #21a1f1;
+}
+
+.summary, .skills, .experience, .projects, .education {
+  margin: 40px 20px;
+  padding: 20px;
+  background-color: #f4f4f9;
+  border-radius: 10px;
+}
+
+h2 {
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  background: #ddd;
+  margin: 5px 0;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.job, .project {
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.job h3, .project h3 {
+  color: #4caf50;
+}
+
+footer {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  font-size: 0.9rem;
+  margin-top: 40px;
+}
+
