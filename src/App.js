@@ -36,7 +36,7 @@ function App() {
       <section className="experience">
         <h2>Experience</h2>
         <div className="job">
-          <h3>Sukranth Technologies - Azure DevOps Engineer (Jun 2022 - Present)</h3>
+          <h3>Sukranth Technologies Pvt.Ltd - Azure DevOps Engineer (Jun 2022 - Present)</h3>
           <p>
             Responsibilities include automating builds and deployments, configuring CI/CD pipelines using Azure DevOps, managing Azure services, and implementing infrastructure as code with Terraform.
           </p>
