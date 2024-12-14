@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>GIRAGANI SAGAR</h1>
+        <h1> GIRAGANI SAGAR </h1>
         <p>Azure DevOps Engineer</p>
         <div className="contact-info">
           <p>Phone: +91-6301758608</p>
